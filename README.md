@@ -14,3 +14,11 @@ The Developer Capsule focuses on development with unity. Any user joins are welc
 Any types of contribution to make the developer capsule better, is also welcome.
 Lets be a strong organization and look forward to make this Dev community grow bigger among the world! 💪
 </details>
+
+<details open>
+<summary>How to join the organization?</summary>
+<br>
+Create a pull request at [this repository](https://github.com/The-Developer-Capsule/Join).
+Yes that is free!
+</details>
+
