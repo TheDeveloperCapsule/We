@@ -1,4 +1,4 @@
-# Hello world👋! This is [The Developer Capsule](https://github.com/The-Developer-Capsule). 🚀
+# Hello world👋! This is [The Developer Capsule](https://github.com/TheDeveloperCapsule). 🚀
 A pod for developers by a developer. Starting as a GitHub organization.
 <br>
 Founded on 29 July 2021 by [@AnadyaNair](https://github.com/AnadyaNair) with happiness.
@@ -29,7 +29,7 @@ Please introduce yourself with a issue at this repository 🚀
 <summary>How to join the organization?</summary>
 <br>
   
-Create a issue at [this repository](https://github.com/The-Developer-Capsule/Join).
+Create a issue at [this repository](https://github.com/TheDeveloperCapsule/Join).
 Yes that is free!
 </details>
 
